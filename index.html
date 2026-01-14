@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rota dos Encontros</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0b1220">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <div class="logo">🏍️</div>
+      <div class="titles">
+        <h1>Rota dos Encontros</h1>
+        <p>Eventos e motoclubes. Simples, rápido e público.</p>
+      </div>
+    </div>
+    <nav class="tabs">
+      <button class="tab active" data-tab="events">Eventos</button>
+      <button class="tab" data-tab="clubs">Motoclubes</button>
+    </nav>
+  </header>
+  <main class="wrap">
+    <section class="controls">
+      <input id="search" class="input" type="search" placeholder="Buscar por cidade, nome, tag...">
+      <select id="state" class="select">
+        <option value="">Todos os estados</option>
+        <option value="PR">PR</option>
+        <option value="SC">SC</option>
+        <option value="RS">RS</option>
+        <option value="MS">MS</option>
+      </select>
+    </section>
+    <section id="view-events" class="view">
+      <h2>Próximos eventos</h2>
+      <div id="eventsList" class="list"></div>
+    </section>
+    <section id="view-clubs" class="view hidden">
+      <h2>Motoclubes</h2>
+      <div id="clubsList" class="list"></div>
+    </section>
+  </main>
+  <footer class="foot">
+    <small>© <span id="year"></span> Rota dos Encontros</small>
+  </footer>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
