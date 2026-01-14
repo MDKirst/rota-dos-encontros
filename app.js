@@ -5,15 +5,14 @@ document.addEventListener('DOMContentLoaded', function() {
   let eventsData = [];
   let clubsData = [];
   // fetch data
-  fetch('data/events.json')
-    .then(res => res.json())
-    .then(data => { eventsData = data; renderEvents(); })
-    .catch(err => console.error(err));
-  fetch('data/clubs.json')
-    .then(res => res.json())
-    .then(data => { clubsData = data; renderClubs(); })
-    .catch(err => console.error(err));
-
+fetch('events.json')
+  .then(res => res.json())
+  .then(data => { eventsData = data; renderEvents(); })
+  .catch(err => console.error(err));
+fetch('clubs.json')
+  .then(res => res.json())
+  .then(data => { clubsData = data; renderClubs(); })
+  .catch(err => console.error(err));
   tabs.forEach(tab => {
     tab.addEventListener('click', () => {
       tabs.forEach(t => t.classList.remove('active'));
