@@ -1,0 +1,322 @@
+[
+  {
+    "id": "695eef5ae690657d5cf510e6",
+    "name": "Amigos Duas Rodas",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/0c15663a0_amigos.png",
+    "city": "Matelândia",
+    "state": "PR",
+    "bio": "Amigos Duas Rodas é um motoclube de Matelândia, Paraná, fundado em 2018. Com seu brasão marcante de águia e asas douradas, o clube representa a união, amizade e paixão pelas estradas do Oeste do Paraná. Unidos pela irmandade sobre duas rodas.",
+    "whatsapp": "45999380226",
+    "instagram": "@amigosduas.rodas"
+  },
+  {
+    "id": "695eea85c692749c072fe60c",
+    "name": "Red Foot MC",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/2f073f5cd_red.png",
+    "city": "Cafelândia",
+    "state": "PR",
+    "bio": "Red Foot MC é um motoclube do Paraná, reconhecido pelo seu brasão marcante com caveira de capacete e pegadas vermelhas. O clube representa a irmandade do asfalto, unindo motociclistas apaixonados pela estrada e pela cultura custom. Com forte presença na região Sul, o Red Foot MC promove o espírito de camaradagem, respeito e liberdade sobre duas rodas.",
+    "whatsapp": "",
+    "instagram": "@redfootmc"
+  },
+  {
+    "id": "695dbfcfff15b7c4a864386d",
+    "name": "Ludwig Moto Club",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/07a55ff4d_WhatsAppImage2025-07-30at095353.jpeg",
+    "city": "Marechal Cândido Rondon",
+    "state": "PR",
+    "bio": "Ludwig Moto Club é um grupo solidário de motociclistas de Marechal Cândido Rondon que promove apoio e auxílio a motociclistas em dificuldades. O clube realiza eventos beneficentes, almoços solidários e ações entre amigos, unindo a paixão pelas motos com o trabalho social na região.",
+    "whatsapp": "",
+    "instagram": "@ludwigmotoclub"
+  },
+  {
+    "id": "695c7dd63673bb17eb174cfb",
+    "name": "Lobos da Estrada",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/0114e4b3e_lobos.png",
+    "city": "Santa Terezinha de Itaipu",
+    "state": "PR",
+    "bio": "Lobos da Estrada é um motoclube de Santa Terezinha de Itaipu que caminha com respeito, irmandade, solidariedade e união. O clube vive momentos e constrói lembranças, representando a força e união da matilha sobre duas rodas.",
+    "whatsapp": "",
+    "instagram": "@lobos_da_estrada_pa_moto_clube"
+  },
+  {
+    "id": "695c7daf8ab739b809a7029e",
+    "name": "Filhos da Serpente Moto Clube",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/8413abdd6_filhosdaserpente.jpg",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Filhos da Serpente Moto Clube é um motoclube de Cascavel que representa a astúcia, liberdade e força da serpente nas estradas paranaenses. Com seu brasão marcante, o clube une motociclistas que compartilham os valores de irmandade e respeito mútuo.",
+    "whatsapp": "",
+    "instagram": "@filhosdaserpente_mc"
+  },
+  {
+    "id": "695c7d8b0c0ebb8c079e6461",
+    "name": "Rondon Moto Clube",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/0c52c9c3e_rondom.png",
+    "city": "Marechal Cândido Rondon",
+    "state": "PR",
+    "bio": "Fundado em 17 de fevereiro de 1984, o Rondon Moto Clube é um dos motoclubes mais tradicionais do Paraná, com mais de 40 anos de história. Com sede em Marechal Cândido Rondon, o clube reúne 31 membros dedicados à irmandade, organiza eventos e viagens, mantendo viva a cultura motociclista da região.",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7d1ea4638de1924df02b",
+    "name": "Forasteiros do Oeste MC",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/b5133ac39_escudo-forasteirosa.jpg",
+    "city": "Santa Helena",
+    "state": "PR",
+    "bio": "Forasteiros do Oeste MC é um motoclube de Santa Helena que traz o espírito desbravador dos forasteiros nas estradas do Oeste do Paraná. O clube promove a liberdade, aventura e camaradagem entre motociclistas da região.",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7ce19ed56ba25343bd9f",
+    "name": "Ubiratã Moto Clube",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/df1a6f94f_ubirata.png",
+    "city": "Ubiratã",
+    "state": "PR",
+    "bio": "Fundado em 2021, o Ubiratã Moto Clube é um grupo jovem e vibrante de motociclistas de Ubiratã. O clube representa a nova geração de motociclistas paranaenses, promovendo eventos, viagens e a união entre os amantes das duas rodas.",
+    "whatsapp": "44999999999",
+    "instagram": "@ubiratamc"
+  },
+  {
+    "id": "695c7c98107be33e0015e951",
+    "name": "The Roots MC",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/6e0351bfc_WhatsAppImage2025-08-11at175102.jpg",
+    "city": "Foz do Iguaçu",
+    "state": "PR",
+    "bio": "The Roots MC é um motoclube de Foz do Iguaçu que celebra as raízes e origens da cultura motociclista. Com eventos como churrascadas e encontros regados a rock e amizade, o clube mantém viva a essência da irmandade sobre duas rodas.",
+    "whatsapp": "",
+    "instagram": "@therootsmc_foz"
+  },
+  {
+    "id": "695c7c4f8ed5ddbeaade757b",
+    "name": "Apache Moto Clube",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/1aeb68164_Apache.png",
+    "city": "Cafelândia",
+    "state": "PR",
+    "bio": "Apache Moto Clube é um motoclube de Cafelândia que carrega o espírito guerreiro e livre dos Apache. Com seu brasão marcante em dourado e preto, o clube representa coragem, respeito e a irmandade entre motociclistas da região.",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7c1882edc520c4974f75",
+    "name": "Parceiros da Estrada Moto Clube",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/54159ef2f_Semttulo.png",
+    "city": "Guaíra",
+    "state": "PR",
+    "bio": "Fundado em 2009, o Parceiros da Estrada Moto Clube de Guaíra é um grupo de amigos motociclistas unidos pela paixão por motos e estradas. O clube se reúne regularmente para viagens, eventos e promove a amizade e camaradagem entre os membros.",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7b2a6317c702a26770c9",
+    "name": "Pirados do Trecho Moto Grupo",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/4a84b2c3e_pirados.png",
+    "city": "Medianeira",
+    "state": "PR",
+    "bio": "Pirados do Trecho Moto Grupo é um motogrupo de Cascavel que reúne motociclistas apaixonados pelas estradas. Com espírito irreverente e alegre, o grupo promove viagens, encontros e a confraternização entre os pirados de plantão sobre duas rodas.",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7af913ce6cbb43867bc7",
+    "name": "Moto Grupo Barulhentos",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/3339f513d_barulhentos.jpg",
+    "city": "Pranchita",
+    "state": "PR",
+    "bio": "Fundado em 11 de maio de 2002, o Moto Grupo Barulhentos de Pranchita é presidido por Elio Vanderlei Vaz. O grupo se reúne nas primeiras terças-feiras do mês, promovendo a união e a paixão pelas motos entre seus membros.",
+    "whatsapp": "46991772799",
+    "instagram": ""
+  },
+  {
+    "id": "695c7a8019502c9e0355cf67",
+    "name": "Gladius MC",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/166db6156_Gladius.png",
+    "city": "Ciudad del Este",
+    "state": "Alto Paraná",
+    "bio": "",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7a4d545198ec6ff0c7b3",
+    "name": "Dragões da Alvorada",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/d902a6a2d_dragoes.png",
+    "city": "Santa Terezinha de Itaipu",
+    "state": "PR",
+    "bio": "",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c7817cb89449479ca2a69",
+    "name": "Cobras do Asfalto",
+    "logo": "",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Moto Clube nascido oficialmente em 05 de Junho de 1996, formado por pessoas comprometidas com o bem estar coletivo e individual, amantes do motociclismo. Lema: 'Andamos de moto, porque Deus não deu asas a cobra'.",
+    "whatsapp": "",
+    "instagram": "@cobrasdoasfaltocascavel"
+  },
+  {
+    "id": "695c7817cb89449479ca2a68",
+    "name": "Dragoons Moto Clube",
+    "logo": "",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Fundado em 2010 com o lema 'Take Care of the Kids, Support Your Community, Ride Like Hell'. Moto clube focado em ações sociais e comunitárias, especialmente voltado para crianças.",
+    "whatsapp": "",
+    "instagram": "@dragoons.mc"
+  },
+  {
+    "id": "695c766a4550640c46fceee8",
+    "name": "Minhocas do Asfalto MC",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/064867789_minhocas.png",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Criado em 2004 por um grupo de amigos, o clube tem como lema \"Liberdade, Respeito, Irmandade, Família, Devoção e Solidariedade\". É um dos clubes mais ativos de Cascavel, com sua festa de aniversário oficialmente instituída no calendário de eventos do município pela Lei 7.560/2023.",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/minhocasdoasfalto/"
+  },
+  {
+    "id": "695c6ad3bec0d89449ecaade",
+    "name": "Libertários MC",
+    "logo": "",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Fundado em 2019, o Libertários MC adota uma identidade visual inspirada em símbolos de liberdade (como a bandeira Gadsden \"Don't Tread on Me\" e o lema grego \"ΜΟΛΩΝ ΛΑΒΕ\" - Molon Labe). Foca na irmandade e na realização de eventos como moto acampamentos e encontros de aniversário com bandas de rock.",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/libertarios_mc/"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbed",
+    "name": "Snake Soul Moto Clube",
+    "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=728736324622992&get_thumbnail=1",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Moto clube com ênfase na presença constante nas estradas, promovendo valores de lealdade e aventura no motociclismo.",
+    "whatsapp": "",
+    "instagram": "@snakesoulmotoclube"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbea",
+    "name": "Quatis das Cataratas M.C",
+    "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=467955658696321",
+    "city": "Foz do Iguaçu",
+    "state": "PR",
+    "bio": "Fundado por um grupo de amigos entusiastas do moto turismo, é o primeiro moto clube da região de tríplice fronteira. Promove eventos como o Cataratas Motorcycle, com foco em promover a cidade no mapa do motociclismo, valores de compromisso, cidadania e solidariedade.",
+    "whatsapp": "",
+    "instagram": "@quatiscataratas"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbef",
+    "name": "MC Brothers do Asfalto Toledo",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/216a7645d_images.png",
+    "city": "Toledo",
+    "state": "PR",
+    "bio": "Defende causas sociais, amizade e respeito ao motociclista, independentemente de estilo ou tipo de moto, promovendo irmandade e eventos comunitários.",
+    "whatsapp": "",
+    "instagram": "@mc.brothers_do_asfalto_oficial"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbf5",
+    "name": "Moto Club de Toledo",
+    "logo": "",
+    "city": "Toledo",
+    "state": "PR",
+    "bio": "Um clube histórico da cidade de Toledo, reconhecido por sua longevidade e por integrar motociclistas de diversas cilindradas em eventos sociais e filantrópicos.",
+    "whatsapp": "(45) 99925-4432",
+    "instagram": ""
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbec",
+    "name": "Raizes Moto Clube",
+    "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3758276807592624",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Resgatando a essência do Motociclismo. Focado em viagens e a cultura de rodar juntos em irmandade, mantendo vivo o verdadeiro espírito motociclista.",
+    "whatsapp": "",
+    "instagram": "@raizesmotoclube"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbeb",
+    "name": "Moto Clube BR 277",
+    "logo": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3077170786972845035",
+    "city": "Foz do Iguaçu",
+    "state": "PR",
+    "bio": "Uma família que tem como objetivo manter e contribuir com a união no motociclismo, ajudando ao próximo e promovendo o espírito de irmandade entre motociclistas.",
+    "whatsapp": "",
+    "instagram": "@mot0clubebr277"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbf1",
+    "name": "Rondon Moto Clube",
+    "logo": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3570139103607816440",
+    "city": "Marechal Cândido Rondon",
+    "state": "PR",
+    "bio": "Focado em atividades de recreação, lazer e competições de motocross. É um pilar da cultura de duas rodas na cidade de Marechal Cândido Rondon, frequentemente organizando 'Moto Almoços'. Com 31 membros, promove eventos e viagens, promovendo a cultura do motociclismo e irmandade nas estradas.",
+    "whatsapp": "(45) 99978-9435",
+    "instagram": "@rondonmotoclube"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbf2",
+    "name": "Moto Clube Cascavel",
+    "logo": "",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Um dos clubes mais antigos e tradicionais do estado, focado na promoção do motociclismo esportivo e lazer na região de Cascavel. Organizador de diversos eventos regionais.",
+    "whatsapp": "(45) 99916-9480",
+    "instagram": "@motoclubecascavel"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbee",
+    "name": "Motoclube Estradeiros",
+    "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=509567791283229",
+    "city": "Toledo",
+    "state": "PR",
+    "bio": "Com sede em Toledo/PR, além das viagens, os Estradeiros mantém a interação com a comunidade e promovem eventos de rock e ações para o bem-estar social, valorizando a cultura motociclista e a solidariedade.",
+    "whatsapp": "",
+    "instagram": "@estradeirosmc"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbf4",
+    "name": "Caçadores das Sombras Moto Clube",
+    "logo": "",
+    "city": "Cascavel",
+    "state": "PR",
+    "bio": "Grupo focado em viagens de longa distância e confraternização entre membros. Seguem a cultura clássica de MCs com reuniões mensais.",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbf0",
+    "name": "Ubiratã Moto Clube",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69128d122cb00f9ad5ba3b87/df1a6f94f_ubirata.png",
+    "city": "Ubiratã",
+    "state": "PR",
+    "bio": "Grupo de motociclistas que valoriza a paixão pelas estradas, com foco em viagens e eventos locais, promovendo o lema 'Sangue de motociclista não circula, viaja'.",
+    "whatsapp": "(44) 99952-5312",
+    "instagram": "@ubirata.motoclube"
+  },
+  {
+    "id": "695c64a5d856d6ee7c1edbf3",
+    "name": "Legionários Moto Clube",
+    "logo": "",
+    "city": "Foz do Iguaçu",
+    "state": "PR",
+    "bio": "Clube tradicional com forte apego aos valores familiares e à irmandade na estrada. Realizam reuniões semanais às sextas-feiras em sede própria.",
+    "whatsapp": "(45) 99966-9251",
+    "instagram": ""
+  },
+  {
+    "id": "691290c448993ca642ea7ea7",
+    "name": "OLD West Born Nomades",
+    "logo": "https://base44.app/api/apps/69128d122cb00f9ad5ba3b87/files/public/69128d122cb00f9ad5ba3b87/7d4d1285f_images.jfif",
+    "city": "Cêu Azul",
+    "state": "PR",
+    "bio": "Nomads",
+    "whatsapp": "",
+    "instagram": "https://www.instagram.com/oldwestbornmcoficial/"
+  }
+]
